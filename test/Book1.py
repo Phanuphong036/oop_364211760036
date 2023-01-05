@@ -24,8 +24,8 @@ class Book:
 
 
 #create odject
-b1 = Book("OOP",200.00,"Puriwat",'MT Familly')
-b2 = Book("Computer Progamming",250.00,"Phanuphong Sutthiphibun",'RUPS')
+b1 = Book("ความมั่งคั่งปฏิวัติ (REVOLUTIONARY WEALTH)",250.00,"ALVIN TOFFLER, HEIDI TOFFLER",'RW')
+b2 = Book("NOW I UNDERSTAND",349.00,"ต้นกล้า นัยนา",'NIU')
 print(b1.bookname)
 print(b1.price)
 print(b1.auther)
@@ -36,9 +36,6 @@ print(b2.price)
 print(b2.auther)
 print(b2.publisher)
 
-b2.price = 300.00
-print(b2.price)
-print(b1.price)
 
 #using method from class
 b1.book_detail()
