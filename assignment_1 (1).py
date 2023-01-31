@@ -1,7 +1,7 @@
 """
 Name: {Phanuphong Sutthiphibun}
 SID: {364211760036}
-Group: {MIT212}
+Group: {MIT222}
 """
 # ประกาศตัวแปร x มีค่าเท่ากับ 100
 x = 100
