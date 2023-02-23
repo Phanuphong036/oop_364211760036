@@ -30,5 +30,5 @@ for x in range(num):
     print("ยี่ห้อรถ : ",brand)
     print("รุ่นรถ : ",model)
     print("สีรถ : ",color)
-    print("ความรเร็วสูงสุด : ",speed)
+    print("ความเร็วสูงสุด : ",speed)
     print("ราคา : ",price)
